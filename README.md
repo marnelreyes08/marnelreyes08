@@ -12,9 +12,9 @@ Passionate about exploring cutting-edge technology areas such as natural languag
 I look forward to connecting with professionals and mentors in the tech community to collaborate and learn more about emerging trends and applications.
 
 * 🌍  I'm based in Rolling Meadows, Illinois
-* 🖥️  See my portfolio at [marnelreyes-website](http://https://marnelreyes08.github.io/marnelreyes-website/)
+* 🖥️  See my portfolio at [marnelreyes-website](http://marnelreyes08.github.io/marnelreyes-website/)
 * ✉️  You can contact me at [marnelreyes3@gmail.com](mailto:marnelreyes3@gmail.com)
-* 🚀  I'm currently working on [\[Portfolio & CS Projects\]](http://https://marnelreyes08.github.io/marnelreyes-website/)
+* 🚀  I'm currently working on [\[Portfolio & CS Projects\]](http://marnelreyes08.github.io/marnelreyes-website/)
 * 🧠  I'm currently learning CS degree coursework (Harper College) | C++ & advanced programming | Cybersecurity fundamentals (network security, encryption) | Full-stack web development (React + Node.js basics)
 * 👥  I'm looking to collaborate on Open-source company projects | CS student projects or study groups | Web dev or Python automation tools | Harper College CS & Data Science club activities
 * 💬  Ask me about Sports | Basketball, F1 & karting enthusiast 🏎️ | Built Arduino projects from scratch for robotics club competitions | ---- I may also be Batman...
@@ -26,4 +26,3 @@ I look forward to connecting with professionals and mentors in the tech communit
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/marnel-james-reyes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/marnel.james.reyes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-
