@@ -1,5 +1,4 @@
-## Hi there 👋
-## Marnel James N. Reyes
+## Hi there 👋 ## my name is Marnel James N. Reyes
 ## CS Student | C++ | Python | Web Dev | Cybersecurity & Software Dev Skills
 
 <!--
