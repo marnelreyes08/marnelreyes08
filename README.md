@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Marnel James N. Reyes
+## CS Student | C++ | Python | Web Dev | Cybersecurity & Software Dev Skills
 
 <!--
 **marnelreyes08/marnelreyes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- My name is Marnel James N. Reyes
-CS Student | C++ | Python | Web Dev | Cybersecurity & Software Dev Skills
 I am a motivated computer science student with a strong foundation in programming, algorithms, and software development. Experienced in C++ and Python, I have engaged in research projects focused on machine learning, artificial intelligence, data analysis, and cybersecurity, applying academic concepts to practical challenges.
 
 Passionate about exploring cutting-edge technology areas such as natural language processing, computer vision, large language models and cybersecurity, I am eager to grow my skills through research, part-time tech jobs and internship opportunities. I am committed to continuous learning and excited to contribute to innovative projects that advance technology and positively impact society.
 
 I look forward to connecting with professionals and mentors in the tech community to collaborate and learn more about emerging trends and applications.
 
-I am based in: Rolling Meadows
-I am looking to collaborate on: Open source projects
+- I am based in: Rolling Meadows
+- I am looking to collaborate on: Open source     projects
