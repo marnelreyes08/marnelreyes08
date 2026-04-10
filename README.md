@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+## Hi there 👋
+**My name is Marnel James N. Reyes** 
+=======
 ## Hi there 👋 my name is Marnel James N. Reyes
 ## CS Student | C++ | Python | Web Dev | Cybersecurity & Software Dev Skills
 
+>>>>>>> 5d9b4cc9d4b4fa7511bb7cf12b62182a5ec94044
 <!--
 **marnelreyes08/marnelreyes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,5 +32,3 @@ I look forward to connecting with professionals and mentors in the tech communit
 - I'm currently learning CS degree coursework (Harper College) | C++ & advanced programming | Cybersecurity fundamentals (network security, encryption) | Full-stack web development (React + Node.js basics)
 - Ask me bout Sports | Basketball F1 & karting enthusiast 🏎️ | Built Arduino projects from scratch for robotics club competitions | ---- I may also be Batman...
 
-Contact Me:
-[logo]:  
